@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.imoehl</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>payroll-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>payroll-api</name>
 	<description>Simple Payroll Rest API</description>
 	<properties>
 		<java.version>21</java.version>
